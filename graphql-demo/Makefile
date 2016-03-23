@@ -5,3 +5,6 @@ run:
 install:
 	@echo "Installing server deps"
 	npm install
+
+test:
+	node node_modules/mocha/bin/mocha --compilers coffee:coffee-script/register tests.coffee
