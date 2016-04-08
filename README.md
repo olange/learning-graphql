@@ -5,7 +5,8 @@ Discovering and learning using [GraphQL](http://graphql.org) and [Relay](https:/
 ## Overview
 
 * [Exploring GraphQL](https://www.youtube.com/watch?v=cr4QB3j8qFc) _video, 28 min._ (Lee Byron, 24.08.2015) Motivations for GraphQL, some performance metrics and description of GraphQL design principles: strong type system, expressing shape of expected data, returned data in this shape, and validated according to the schema
-* [Thinking in GraphQL](https://facebook.github.io/relay/docs/thinking-in-graphql.html) Interesting article within [Relay Docs](https://facebook.github.io/relay/), which gives a preview of the Relay's features.
+* [Introduction to GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html) (Nick Schrock, React blog, 01.05.2015) Announces Relay, while explaining what GraphQL is, its features and advantages, and differences to REST-style and Ad Hoc server endpoints
+* [Thinking in GraphQL](https://facebook.github.io/relay/docs/thinking-in-graphql.html) Interesting article within [Relay Docs](https://facebook.github.io/relay/), which gives an overview of Relay's features on top of GraphQL, in the service of React.
 
 ## Understanding and using
 
