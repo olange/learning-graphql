@@ -2,6 +2,8 @@
 
 Discovering and learning using [GraphQL](http://graphql.org) and [Relay](https://facebook.github.io/relay/).
 
+GraphQL is a query language, built on top of a custom schema using a strong type system, that allows to express client-specified queries, to validate them, while introspecting the schema. A GraphQL query executor will then deliver data in the shape asked by the client, while validating the data it retrieves from the required datasources. GraphQL can retrieve data from any kind of datastore, being it a relational SQL Server database, a graph DB or a key-value datastore such as Redis.
+
 ## Overview
 
 * [Exploring GraphQL](https://www.youtube.com/watch?v=cr4QB3j8qFc) _video, 28 min._ (Lee Byron, 24.08.2015) Motivations for GraphQL, some performance metrics and description of GraphQL design principles: strong type system, expressing shape of expected data, returned data in this shape, and validated according to the schema
@@ -11,7 +13,8 @@ Discovering and learning using [GraphQL](http://graphql.org) and [Relay](https:/
 ## Understanding and using
 
 * [Getting started with GraphQL](http://graphql.org/docs/getting-started/) Installing and getting the GraphQL NodeJS server running
-* [Walkthrough of GraphQL](http://graphql.org/docs/intro/) (also available as a single page in [GraphQL's GitHub repo](https://github.com/facebook/graphql)) A good explanation of GraphQL's schema, type system and queries.
+* [Walkthrough of GraphQL](http://graphql.org/docs/intro/) (also available as a single page in [GraphQL's GitHub repo](https://github.com/facebook/graphql)) A good explanation of GraphQL's schema, type system and queries
+* [GraphiQL](https://github.com/graphql/graphiql) Don't miss this graphical interactive in-browser GraphQL IDE: allows to browse the schema, write and validate queries, and of course, browse results; un composant déterminant pour l'adoption d'un schéma GraphQL au sein d'une équipe.
  
 ## Extending the type system
 
