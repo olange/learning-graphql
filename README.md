@@ -15,3 +15,9 @@ Discovering and learning using [GraphQL](http://graphql.org) and [Relay](https:/
 ## Extending the type system
 
 * [GraphQLDateTimeScalarType](https://gist.github.com/olange/f6c57d3ca577955fc3a51aa62f88c948) a Gist with a custom DateTime type definition for a date and time with timezone, that serializes to JSON in ISO-8601 format (CoffeeScript)
+
+## Reference documentation
+
+* [GraphQL API Reference › Main entry point](http://graphql.org/docs/api-reference-graphql/) Given a schema and request string, the `graphql` function lexes, parses, validates and executes a GraphQL request
+* [GraphQL API Reference › Type system](http://graphql.org/docs/api-reference-type-system/) The document I'm refering the most often to
+* [GraphQL Specification](http://facebook.github.io/graphql/) Draft specification of the GraphQL query language; useful to understand inner workings of GraphQL.
