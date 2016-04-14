@@ -9,7 +9,7 @@ GraphQL is a query language, built on top of a custom schema using a strong type
 * [Exploring GraphQL](https://www.youtube.com/watch?v=cr4QB3j8qFc) _video, 28 min._ (Lee Byron, 24.08.2015) Motivations for GraphQL, some performance metrics and description of GraphQL design principles: strong type system, expressing shape of expected data, returned data in this shape, and validated according to the schema
 * [Introduction to GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html) (Nick Schrock, React blog, 01.05.2015) Announces Relay open-source publication, while explaining what GraphQL is, its features and advantages, and differences to REST-style and Ad Hoc server endpoints
 * [Thinking in GraphQL](https://facebook.github.io/relay/docs/thinking-in-graphql.html) Interesting article within [Relay Docs](https://facebook.github.io/relay/), which gives an overview of Relay's features on top of GraphQL, in the service of React
-* [Data fetching for React applications at Facebook](https://youtu.be/9sc8Pyc51uU) (Dan Schafer, Jing Chen, 28.01.2015) Synthetic overview of GraphQL and Relay's features: query colocation to React components, pagination, query validation, mutations, optimistic updates and error handling.
+* [Data fetching for React applications at Facebook](https://youtu.be/9sc8Pyc51uU) _video, 26 min._ (Dan Schafer, Jing Chen, 28.01.2015) Synthetic overview of GraphQL and Relay's features: query colocation to React components, pagination, query validation, mutations, optimistic updates and error handling.
 
 ## Understanding and using
 
