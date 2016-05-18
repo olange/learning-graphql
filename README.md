@@ -26,3 +26,7 @@ GraphQL is a query language, built on top of a custom schema using a strong type
 * [GraphQL API Reference › Main entry point](http://graphql.org/docs/api-reference-graphql/) Given a schema and request string, the `graphql` function lexes, parses, validates and executes a GraphQL request
 * [GraphQL API Reference › Type system](http://graphql.org/docs/api-reference-type-system/) The document I'm refering the most often to
 * [GraphQL Specification](http://facebook.github.io/graphql/) Draft specification of the GraphQL query language; useful to understand inner workings of GraphQL.
+
+## Useful articles
+
+* [Part 7: Deep Dive into GraphQL Type System](https://github.com/mugli/learning-graphql/blob/master/7.%20Deep%20Dive%20into%20GraphQL%20Type%20System.md#graphqlinterfacetype) _describes interfaces, union and input types with a slight more context than the [GraphQL API reference](http://graphql.org/docs/api-reference-type-system/) does_
