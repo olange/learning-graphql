@@ -15,7 +15,8 @@ GraphQL is a query language, built on top of a custom schema using a strong type
 
 * [Getting started with GraphQL](http://graphql.org/docs/getting-started/) Installing and getting the GraphQL NodeJS server running
 * [Walkthrough of GraphQL](http://graphql.org/docs/intro/) (also available as a single page in [GraphQL's GitHub repo](https://github.com/facebook/graphql)) A good explanation of GraphQL's schema, type system and queries
-* [GraphiQL](https://github.com/graphql/graphiql) A graphical interactive in-browser GraphQL IDE: allows to browse the schema and its documentation, write and validate queries, and of course, browse results; un composant déterminant pour l'adoption d'un schéma GraphQL au sein d'une équipe.
+* [GraphiQL](https://github.com/graphql/graphiql) A graphical interactive in-browser GraphQL IDE: allows to browse the schema and its documentation, write and validate queries, and of course, browse results; un composant déterminant pour l'adoption d'un schéma GraphQL au sein d'une équipe
+* [Medium › GraphQL Hub](https://medium.com/the-graphqlhub) Serie of tutorials deepening usage of the type system and describing a few common use cases.
  
 ## Extending the type system
 
@@ -30,3 +31,4 @@ GraphQL is a query language, built on top of a custom schema using a strong type
 ## Useful articles
 
 * [Part 7: Deep Dive into GraphQL Type System](https://github.com/mugli/learning-graphql/blob/master/7.%20Deep%20Dive%20into%20GraphQL%20Type%20System.md#graphqlinterfacetype) _describes interfaces, union and input types with a slight more context than the [GraphQL API reference](http://graphql.org/docs/api-reference-type-system/) does_
+* see also the [Medium › GraphQL Hub](https://medium.com/the-graphqlhub) mentioned above
