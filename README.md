@@ -16,6 +16,7 @@ GraphQL is a query language, built on top of a custom schema using a strong type
 * [Getting started with GraphQL](http://graphql.org/docs/getting-started/) Installing and getting the GraphQL NodeJS server running
 * [Walkthrough of GraphQL](http://graphql.org/docs/intro/) (also available as a single page in [GraphQL's GitHub repo](https://github.com/facebook/graphql)) A good explanation of GraphQL's schema, type system and queries
 * [GraphiQL](https://github.com/graphql/graphiql) A graphical interactive in-browser GraphQL IDE: allows to browse the schema and its documentation, write and validate queries, and of course, browse results; un composant déterminant pour l'adoption d'un schéma GraphQL au sein d'une équipe
+* [GraphQL Relay.js Test-suite](https://github.com/graphql/graphql-relay-js/tree/master/src/__tests__) _The test suite that comes with GraphQL Relay.js source code is an interesting example to study, it implements the StarWars schema, types, queries and mutation found in the reference documentation_
 * [Medium › GraphQL Hub](https://medium.com/the-graphqlhub) Serie of tutorials deepening usage of the type system and describing a few common use cases.
  
 ## Extending the type system
