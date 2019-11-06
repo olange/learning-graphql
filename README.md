@@ -4,7 +4,7 @@ Discovering and learning using [GraphQL](http://graphql.org) and [Relay](https:/
 
 GraphQL is a query language, built on top of a custom schema using a strong type system, that allows to express client-specified queries, to validate them, while introspecting the schema. A GraphQL query executor will then deliver data in the shape asked by the client, while validating the data it retrieves from the required datasources. GraphQL can retrieve data from any kind of datastore, being it a relational SQL Server database, a graph DB or a key-value datastore such as Redis.
 
-## Overview
+## Overview
 
 * [Exploring GraphQL](https://www.youtube.com/watch?v=cr4QB3j8qFc) _video, 28 min._ (Lee Byron, 24.08.2015) Motivations for GraphQL, some performance metrics and description of GraphQL design principles: strong type system, expressing shape of expected data, returned data in this shape, and validated according to the schema
 * [Introduction to GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html) (Nick Schrock, React blog, 01.05.2015) Announces Relay open-source publication, while explaining what GraphQL is, its features and advantages, and differences to REST-style and Ad Hoc server endpoints
